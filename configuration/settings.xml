@@ -22,7 +22,7 @@
 
   <profiles>
     <profile>
-      <id>central</id>
+      <id>ose-central</id>
       <repositories>
         <repository>
           <id>central</id>
@@ -55,7 +55,7 @@
   </profiles>
 
   <activeProfiles>
-    <activeProfile>central</activeProfile>
+    <activeProfile>ose-central</activeProfile>
   </activeProfiles>
 
 </settings>
